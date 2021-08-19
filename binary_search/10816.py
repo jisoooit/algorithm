@@ -3,7 +3,7 @@ a=list(map(int,input().split()))
 m=int(input())
 a2=list(map(int,input().split()))
 
-dic=[]
+dic=dict()
 #숫자카드와 개수를 딕셔너리에 담기
 for i in a:
   if i in dic:
