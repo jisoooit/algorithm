@@ -41,5 +41,5 @@ while l<len(lkey) and r>=0:
 
 #위에 넣어준 0때문에 s가 0일때 합이 0인게 무조건 1개 잡히므로 -1해줘야 한다.
 if s==0:
-  res=-1
+  res-=1
 print(res)
