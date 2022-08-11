@@ -25,3 +25,7 @@ Algorithm
 ## 알고리즘 공부하면서 알게된 점 정리
 
 [Jisoooit's tistory_blog](https://jisoooit.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+## 알고리즘 풀이 정리
+
+[Jisoooit's notion](https://alpine-pony-2d8.notion.site/68f910e481424cdfa61cbddc23897a8f)
